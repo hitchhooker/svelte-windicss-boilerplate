@@ -1,4 +1,4 @@
-# svelte-windiss-boilerplate
+# svelte-windicss-boilerplate
 
 ## Installation
 
