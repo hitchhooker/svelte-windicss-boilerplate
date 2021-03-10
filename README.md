@@ -216,7 +216,8 @@ module.exports = {
     require('windicss/plugin/filters'),
     require('windicss/plugin/scroll-snap'),
   ],
-}; ```
+}; 
+```
 
 
 # Run it
