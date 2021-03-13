@@ -1,5 +1,11 @@
 module.exports = {
+  theme: {
+    extend: {
+    },
+  },
+  variants: {},
   plugins: [
+    require('tailwindcss-textshadow'),
     require('windicss/plugin/typography'),
     require('windicss/plugin/forms'),
     require('windicss/plugin/aspect-ratio'),
